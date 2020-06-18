@@ -189,7 +189,6 @@ static String[] getEng(int length,char[] c) {
 			s[length-5]+=" thousand ";	
 		}
 	}
-		
 	}
 return s;
 }
