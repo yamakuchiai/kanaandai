@@ -166,6 +166,7 @@ static String[] getEng(int length,char[] c) {
 			}else{
 				s[length-5]="ten";
 			}
+			
 		s[length-5]+=" thousand ";
 		}
 		else if(c[length-5]=='2') {
