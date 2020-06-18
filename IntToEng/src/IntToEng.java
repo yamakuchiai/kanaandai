@@ -7,7 +7,7 @@ public class IntToEng {
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
 		  Scanner sc = new Scanner(System.in);
-	        int input = 1088;
+	        int input = sc.nextInt();
 	        System.out.println(translateEng(input));
 	    }
 
